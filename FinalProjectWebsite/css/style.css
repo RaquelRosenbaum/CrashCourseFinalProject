@@ -1,39 +1,87 @@
 
-p {
-    color: black;
-    
-          }
-  h1 {
-    color: black;
-    
-          }
-  h2 {
-    color: black;
-    
-          }
-  h3 {
-    color: black;
-    
-          }
-  h4 {
-    color: black;
-    
-          }
-  h5 {
-    color: black;
-    
-          }
-  h6 {
-    color: black;
-    
-          }
-  a {
-    color: blue;
-    
-          }
-   aside {
-    color: dark-blue;
-    
-          }
-  body {
-  background-color: #E0FFFF;}
+article {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+    }
+    header {
+      color: black;
+      font-size: 4em
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+    }
+    p {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h1 {
+      font-size: 2.5em
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h2 {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h3 {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h4 {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h5 {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    h6 {
+      color: black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    a {
+      color: blue;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+            }
+    body {
+    background-color: #E0FFFF;}
+    footer {
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+    }
+    blockquote {
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+    }
